@@ -67,19 +67,19 @@ for (i in 1:1000) {
 print(paste('Trafienia za 3 pkt: ', l_t));
 ```
 
-    ## [1] "Trafienia za 3 pkt:  247"
+    ## [1] "Trafienia za 3 pkt:  244"
 
 ``` r
 print(paste('Trafienia za 2 pkt: ', l_d));
 ```
 
-    ## [1] "Trafienia za 2 pkt:  682"
+    ## [1] "Trafienia za 2 pkt:  694"
 
 ``` r
 print(paste('Trafienia za 1 pkt: ', l_j));
 ```
 
-    ## [1] "Trafienia za 1 pkt:  1071"
+    ## [1] "Trafienia za 1 pkt:  1062"
 
 Przedstawiamy również histogramy rozkladu sumy punktacji po dwóch
 strzalach:
@@ -112,7 +112,7 @@ prawdopodobienstwo <-1 - (length( wyniki[wyniki<3])/length(wyniki))
 print(paste('prawdopodobieństwo uzyskania co najmniej trzech punktów w dwóch strzałach: ', prawdopodobienstwo));
 ```
 
-    ## [1] "prawdopodobieństwo uzyskania co najmniej trzech punktów w dwóch strzałach:  0.708"
+    ## [1] "prawdopodobieństwo uzyskania co najmniej trzech punktów w dwóch strzałach:  0.717"
 
 Z teoretycznych wyliczeń wychodzi $\\frac{56}{81}$, czyli ok. 0.691,
 zatem możemu uważac symulacje za poprawna.
