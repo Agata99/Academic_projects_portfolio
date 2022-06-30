@@ -56,3 +56,14 @@ Projekty realizowane w ramach przedmiotów statystyka, wstęp do modelowania sto
 
 [k-srednich.Rmd](Statystyka_i_modelowanie_stochastyczne/k-srednich.Rmd)  raport w R Markdown; badanie istotności założeń algorytmu k-średnich oraz zastosowanie go do kompresji obrazu. Aby zobaczyć wyniki programu należy ściągnąć go oraz plik dane_zad1.csv lub można zobaczyć też raport pod linkiem https://rpubs.com/Agata99/kmeans 
 
+[logistyczny model wzrostu.Rmd](Statystyka_i_modelowanie_stochastyczne/logistyczny model wzrostu.Rmd)  raport w R Markdown, projekty realizowany w parach;  raport zawiera opis i porównanie modelu deterministycznego (równanie różniczkowe) oraz losowego. Aby zobaczyć wyniki programu należy ściągnąć go lub można zobaczyć też raport pod linkiem https://rpubs.com/Agata99/logistic_growth
+
+[monte Carlo.Rmd](Statystyka_i_modelowanie_stochastyczne/monte Carlo.Rmd) raport w R Markdown;  porównanie całkowania numerycznego metodami Riemanna oraz metodą Monte Carlo, ulepszenie metody Monte Carlo za pomocą zmiennych antytetycznych. Aby zobaczyć wyniki programu należy ściągnąć go lub można zobaczyć też raport pod linkiem https://rpubs.com/Agata99/MonteCarlo
+
+###  Algorytmy grafowe
+
+Projekt realizowany w parach na przedmiocie Grafowe Prezentacji Danych, napisany w R.
+
+Plik [komiwojażer](Algorytmy_grafowe/komiwojazer.Rmd) zawiera raport projektu. Zadanie polegało na znalezieniu najkrótszej ścieżki przechodzącej przez wszystkie punkty na mapie, zatem na rozwiązaniu problemu komiwojażera. W raporcie opisano problem i zastosowany algorytm, zaimplementowano kod oraz zapisano wyniki. Aby zobaczyć wyniki programu należy ściągnąć go wraz z wszystkimi  obrazkami lub można zobaczyć też raport pod linkiem https://rpubs.com/Agata99/TSP
+
+
