@@ -39,3 +39,20 @@ W tym folderze znajdują się projekty wykonywane w ramach przedmiotu Analizy ep
 [Projekt2](Analizy_epidemiologiczne/Projekt2_model_Lotki_Volterry.ipynb) jakościowa analiza równania różniczkowego model Lotki Volterry.
 
 [Projekt3](Analizy_epidemiologiczne/Projekt3_prognoza_Covid.ipynb) prognozowanie zachorowań na covid-19 przy zastosowaniu modelu deterministycznego SIR z uwzględnieniem wskaźnika szczepień.
+
+###  Statystyka i modelowanie stochastyczne
+
+Projekty realizowane w ramach przedmiotów statystyka, wstęp do modelowania stochastycznego, wnioskowanie w wielowymiarowej statystyce. Wszystkie programy zostały napisane w języku R, a część z nich załączam jako raport w Markdown.
+
+[wms_punkty_stale.r](Statystyka_i_modelowanie_stochastyczne/wms_projekt_punkty_stale.r) kod w R, w programie badane są punkty stałe danej funkcji.
+
+[wms_generatory.r](Statystyka_i_modelowanie_stochastyczne/wms_projekt2_generatory.R) kod w R, generatory liczb pseudolosowych utworzone metodą odwrotnej dystrybuanty dla rozkładów ciągłych i dyskretnych oraz generowanie liczb metodą eliminacji.
+
+[symulacja_zad_prawdop](Statystyka_i_modelowanie_stochastyczne/symulacja_zad_prawdop.md) raport w Markdownie; symulacja rozwiązania zadania z rachunku prawdopodobieństwa polegającego na policzeniu prawdopodobieństwa trafienia w tarczę w dwóch rzutach.
+
+[generatory](Statystyka_i_modelowanie_stochastyczne/generatory.md) raport w Markdownie; generatory liczb pseudolosowych z rozkładu normalnego z wykorzystaniem Centralnego Twierdzenia Granicznego oraz algorytmu Boxa-Mullera i badanie ich różnic.
+
+[proj1_PCA](Statystyka_i_modelowanie_stochastyczne/proj1_PCA.R) kod w R; przeprowadzenie analizy składowych głównych, w pierwszej części z wykorzystaniem podstawowych obliczeń matematycznych, a w drugiej części wykorzystując gotowy pakiet przeznaczony do PCA w R.
+
+[k-srednich.Rmd](Statystyka_i_modelowanie_stochastyczne/k-srednich.Rmd)  raport w R Markdown; badanie istotności założeń algorytmu k-średnich oraz zastosowanie go do kompresji obrazu. Aby zobaczyć wyniki programu należy ściągnąć go oraz plik dane_zad1.csv lub można zobaczyć też raport pod linkiem https://rpubs.com/Agata99/kmeans 
+
