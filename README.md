@@ -1,5 +1,5 @@
 # Academic projects - portfolio
-This repository contains my projects which I made during my studies. Projects written in R, python, sql, html.
+This repository contains my projects which I made during my studies at university. Projects written in R, python, sql, html. All projects and descriptions are only in Polish.
 
 Repozytorium zawiera wybrane projekty, które realizowałam w ramach niektórych przedmiotów na studiach licencjackich i magisterskich na kierunku matematyka.
 
